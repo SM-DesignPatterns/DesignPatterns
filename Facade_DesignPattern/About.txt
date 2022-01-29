@@ -1,1 +1,0 @@
-Utilisons le modèle Facade Design pour connaître le coût de la franchise que le client souhaite acheter.
